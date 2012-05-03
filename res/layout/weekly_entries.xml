@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:padding="3sp">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/linearLayout1">
+        <Spinner android:layout_weight="1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/daily_entries_ChooseComponent_Spinner" android:background="@drawable/pretty_spinner_bg"></Spinner>
+    </LinearLayout>
+    <RelativeLayout android:id="@+id/daily_entries_chart_Layout" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:layout_centerHorizontal="true" android:id="@+id/week_holder" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <RelativeLayout android:id="@+id/monday_holder" android:layout_marginRight="3sp" android:layout_marginLeft="3sp" android:paddingRight="1sp" android:paddingLeft="1sp" android:layout_height="wrap_content" android:layout_width="wrap_content">
+                <TextView android:layout_margin="3sp" android:layout_alignParentBottom="true" android:textSize="18dip" android:textStyle="bold" android:layout_toLeftOf="@+id/daily_entries_Tuesday" android:textColor="@color/white" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView1" android:text="M" android:layout_marginLeft="6sp"></TextView>
+                <RelativeLayout android:id="@+id/daily_entries_Monday" android:layout_above="@+id/textView1" android:layout_width="wrap_content" android:layout_alignParentTop="true" android:layout_toLeftOf="@+id/daily_entries_Tuesday" android:layout_height="wrap_content"></RelativeLayout>
+            </RelativeLayout>
+            <RelativeLayout android:id="@+id/tuesday_holder" android:layout_marginRight="3sp" android:layout_marginLeft="3sp" android:paddingRight="1sp" android:paddingLeft="1sp" android:layout_height="wrap_content" android:layout_width="wrap_content">
+                <TextView android:layout_margin="3sp" android:layout_alignParentBottom="true" android:textSize="18dip" android:textStyle="bold" android:textColor="@color/white" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_width="wrap_content" android:id="@+id/textView2" android:text="T" android:layout_marginLeft="15sp"></TextView>
+                <RelativeLayout android:id="@+id/daily_entries_Tuesday" android:layout_centerHorizontal="true" android:layout_above="@+id/textView2" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_alignParentTop="true" android:layout_height="wrap_content"></RelativeLayout>
+            </RelativeLayout>
+            <RelativeLayout android:id="@+id/wednesday_holder" android:layout_marginRight="3sp" android:layout_marginLeft="3sp" android:paddingRight="1sp" android:paddingLeft="1sp" android:layout_height="wrap_content" android:layout_width="wrap_content">
+                <TextView android:layout_margin="3sp" android:layout_alignParentBottom="true" android:textSize="18dip" android:textStyle="bold" android:textColor="@color/white" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_width="wrap_content" android:id="@+id/textView3" android:text="W"></TextView>
+                <RelativeLayout android:id="@+id/daily_entries_Wednesday" android:layout_centerHorizontal="true" android:layout_above="@+id/textView3" android:layout_width="wrap_content" android:layout_height="wrap_content"></RelativeLayout>
+            </RelativeLayout>
+            <RelativeLayout android:id="@+id/thursday_holder" android:layout_marginRight="3sp" android:layout_marginLeft="3sp" android:paddingRight="1sp" android:paddingLeft="1sp" android:layout_height="wrap_content" android:layout_width="wrap_content">
+                <TextView android:layout_margin="3sp" android:layout_alignParentBottom="true" android:textSize="18dip" android:textStyle="bold" android:textColor="@color/white" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_width="wrap_content" android:id="@+id/textView4" android:text="Th" android:layout_marginLeft="15sp"></TextView>
+                <RelativeLayout android:id="@+id/daily_entries_Thursday" android:layout_centerHorizontal="true" android:layout_above="@+id/textView4" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_alignParentTop="true" android:layout_height="wrap_content"></RelativeLayout>
+            </RelativeLayout>
+            <RelativeLayout android:id="@+id/friday_holder" android:layout_marginRight="3sp" android:layout_marginLeft="3sp" android:paddingRight="1sp" android:paddingTop="1sp" android:layout_height="wrap_content" android:layout_width="wrap_content">
+                <TextView android:layout_toRightOf="@+id/daily_entries_Thursday" android:layout_margin="3sp" android:layout_alignParentBottom="true" android:textSize="18dip" android:textStyle="bold" android:textColor="@color/white" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_width="wrap_content" android:id="@+id/textView5" android:text="F" android:layout_marginLeft="6sp"></TextView>
+                <RelativeLayout android:layout_toRightOf="@+id/daily_entries_Thursday" android:id="@+id/daily_entries_Friday" android:layout_above="@+id/textView5" android:layout_width="wrap_content" android:layout_alignParentTop="true" android:layout_height="wrap_content"></RelativeLayout>
+            </RelativeLayout>
+            <RelativeLayout android:id="@+id/saturday_holder" android:layout_marginRight="3sp" android:layout_marginLeft="10sp" android:paddingRight="1sp" android:paddingTop="1sp" android:layout_height="wrap_content" android:layout_width="wrap_content">
+                <TextView android:layout_toRightOf="@+id/daily_entries_Friday" android:layout_margin="3sp" android:layout_alignParentBottom="true" android:textSize="18dip" android:textColor="@color/white" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_width="wrap_content" android:id="@+id/textView6" android:text="S" android:layout_marginLeft="8sp"></TextView>
+                <RelativeLayout android:id="@+id/daily_entries_Saturday" android:layout_centerHorizontal="true" android:layout_above="@+id/textView6" android:layout_width="wrap_content" android:layout_alignParentTop="true" android:layout_height="wrap_content"></RelativeLayout>
+            </RelativeLayout>
+            <RelativeLayout android:id="@+id/sunday_holder" android:layout_marginRight="3sp" android:layout_marginLeft="3sp" android:paddingRight="1sp" android:paddingTop="1sp" android:layout_height="wrap_content" android:layout_width="wrap_content">
+                <TextView android:layout_margin="3sp" android:layout_alignParentBottom="true" android:textSize="18dip" android:textColor="@color/white" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_width="wrap_content" android:id="@+id/textView7" android:text="S"></TextView>
+                <RelativeLayout android:id="@+id/daily_entries_Sunday" android:layout_centerHorizontal="true" android:layout_above="@+id/textView7" android:layout_width="wrap_content" android:layout_alignParentTop="true" android:layout_height="wrap_content"></RelativeLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+  <android.gesture.GestureOverlayView
+    android:id="@+id/gestures"
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent"
+    android:gestureStrokeType="single"
+    android:eventsInterceptionEnabled="true"
+    android:orientation="vertical">
+    </android.gesture.GestureOverlayView>
+</LinearLayout>

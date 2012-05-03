@@ -1,0 +1,592 @@
+3	AEP Colloids
+4	Alberto-Culver Food Service
+6	Don Miguel Mexican Foods, Inc.
+7	Allied Processors, Inc
+10	International Home Food Products, Inc.
+11	American Ingredients Company
+13	Amy's Kitchen
+14	Anacon Foods Company
+15	Aqualon
+16	Arby's Inc
+17	Archer Daniels Midland Company
+18	Armour Food Ingredients Company
+19	Arrowhead Mills, Inc.
+20	Ateeco, Inc.
+21	Auburn Farms
+22	Barbara's Bakery, Inc.
+23	Bartek Ingredients, Inc.
+24	Basic American Foods
+25	Gilroy Foods
+26	Baskin Robbins, Inc.
+27	Beatrice Cheese, Inc.
+29	Beech-Nut Nutrition Corporation
+30	Ben & Jerry's
+31	Bernardi Itailian Foods, Inc
+33	Blue Diamond Growers
+34	Borden, Inc.
+35	Bestfoods Canada
+36	US Foods, LLC
+37	Bryan Food Service
+38	Royal Pacific Foods
+39	Burger King
+40	California Egg Commission
+41	California Natural Products
+42	California Super Naturals, Inc.
+43	Calpro Ingredients
+44	Campbell's Soup Company
+45	Canandaigua Concentrate
+46	Cargill 
+47	Carl's Jr.
+48	Casbah / Health Valley Co.
+49	Cemac Foods Corp.
+50	Solae
+51	Wyeth Consumer Healthcare
+52	Barry Callebaut
+53	Champion Nutrition
+54	Red Star Bio Products
+55	Church & Dwight Co., Inc.
+57	Clofine Dairy & Food Products
+58	Colony Industries
+59	Banquet / Con Agra, Inc.
+62	Cookietree Bakeries, Inc.
+63	Unilever BestFoods Foodservice
+64	Butter Buds Food Ingredients 
+66	Dairy Queen, Inc.
+67	Dannon Yogurt
+68	Del Monte
+69	Del Taco
+71	Diamond Crystal Specialty Food
+72	Diehl, Inc.
+73	Dreyer's Grand Ice Cream
+74	DynaGel, Inc.
+75	Eastman Chemicals Company
+76	Eden Foods
+77	Edgar A. Weber & Company 
+78	Eggland's Best, Inc.
+79	Nutrition Medical
+80	Ener-G Foods
+81	Erie Foods International, Inc.
+82	Fantastic World Foods
+84	FMC BioPolymer 
+85	Foremost Farms USA
+86	Saputo Cheese USA, Inc.
+87	Frito Lay, Inc.
+89	Galaxy Food Company
+91	Gelatin Manufacturers Institute of America
+92	General Mills
+94	Genesis Nutrition
+95	Gerber Products Company
+96	GFA Brands, Inc.
+97	Ghirardelli Chocolate Company
+98	Gise Creme Glace
+99	Gold Coast Ingredients, Inc.
+100	Golden Dipt Company
+101	Gourmet House
+102	Grain Processing Corporation
+104	Grist Mill
+105	Guiltless Gourmet, Inc.
+106	A.E. Staley Mfg. Co.
+107	Haagen-Dazs Co., Inc.
+108	Hain Celestial Group, Inc
+109	Hardee's Food Systems, Inc.
+110	Health Valley Foods
+111	Healthy Choice / Con Agra, Inc.
+112	Hega Food Products
+113	Heinz USA
+114	Hershey Foods
+115	Hickory Specialties, Inc.
+116	Hillshire Farm & Kahn's
+117	DSM Nutritional Products
+118	Hormel Foods Corporation
+119	Hunt-Wesson 
+120	ICI Surfactants
+121	Imagine Foods
+122	Burns Philp Food Inc.- Vinegar Division
+123	International Molasses Corporation
+124	Kelatron, Inc.
+126	J & J Snack Foods Corporation
+127	Jack in the Box
+129	Jodawnco, Inc.
+130	Kalsec
+131	Kashi Company
+132	ISP Alginates Inc.
+133	Kellogg's
+134	KFC Corporation
+135	Kikkoman International, Inc.
+136	Knudsen & Sons, Inc.
+138	Kraft General Foods USA
+140	L.J. Minor Foodservice Division 
+141	La Tortilla Factory
+142	Land O' Lakes, Inc.
+143	Lawry's Foods, Inc.
+144	Legume, Inc.
+145	Live Food Products
+147	Long John Silver's, Inc.
+148	Lonza Group
+149	Louis Rich Company
+150	Louise's
+151	Lundberg Family Farms
+152	M & M Mars
+153	Maine Coast Sea Vegetables
+154	Mallet & Company
+155	Mallinckrodt Chemical
+156	Masterson Company
+157	McCarty Foods
+158	McCormick & Co., Inc.
+159	McDonald's Corporation
+160	McGaw
+161	McKee Foods Corporation
+163	Mead Johnson Nutritionals
+164	Menu Magic
+165	Mighty Taco
+168	Bayer Corporation
+169	Mission Flavors & Fragrances
+170	Monterey Baking Company
+171	Morinaga Nutritional Foods
+173	Morton Salt
+174	Mrs. Smith's, Inc
+175	Nabisco Foods
+176	National Starch, LLC
+177	American Nutrition Bars, Inc.
+178	Natural Ovens
+180	Nestle Frozen Food Company
+181	Nestle USA, Inc.
+182	Norpac Foods, Inc.
+183	Nutra / Balance Products Company
+184	Nutritech, Inc.
+185	Odwalla
+186	Ore-Cal Corporation
+187	Oregon Hazelnuts
+188	Oscar Mayer Foods
+189	Pacific Seasonings, Inc.
+191	Pectagel, Inc.
+193	Pfizer Food Science Group
+194	Pierce Foods
+195	Pillsbury
+196	Pizza Hut
+197	PowerBar Inc.
+198	Morningstar Foods, Inc
+199	Procter & Gamble
+200	Protein Technologies International
+201	Quali Tech, Inc.
+202	Ralston Foods, Inc.
+205	Reckitt & Benckiser,  Inc.
+206	Red Arrow Products Company, Inc.
+207	Riceland Foods, Inc.
+208	Rogers Foods, Inc.
+209	Ross Laboratories
+211	Roy Rogers
+212	S & W Fine Foods
+213	San-J International
+214	Novartis Nutrition Corporation
+217	SKW/Alex Fries Flavors
+218	Sara Lee
+219	Sargento Cheese Company
+220	Savoldi Cheese Company
+221	Schiff Products
+223	Season's Enterprises
+224	Sethness Products Company
+225	Shaklee Corporation
+226	Shelton Poultry, Inc.
+228	Slim Fast Foods Co
+229	SmithKline Beecham
+230	Nature's Hilights
+231	Snapple Beverage Corporation
+232	Sokol and Company
+233	Solnuts, Inc.
+234	American Natural & Specialty Brands
+235	Amerifit Nutrition
+236	Subway Sandwiches
+238	Sun Growers of California
+239	Sunny Fresh Foods
+240	Sunshine Biscuits Inc.
+242	Superior Coffee & Foods
+243	Taco Bell Corporation
+244	Taco Time
+245	Takeda USA, Inc.
+246	Coca-Cola Company, The
+247	Edlong Corporation, The
+248	Keebler Company, The
+250	B. Manischewitz, Co., The
+251	Nutrasweet Company, The
+252	Original Chili Bowl, Inc., The
+253	Quaker Oats Company, The
+254	TIC Gums
+255	Spectrum Foods
+256	Tofutti Brands, Inc.
+257	Tree Top, Inc.
+258	Triple H Foods
+259	Tropicana
+260	Twin Laboratories, Inc.
+261	Tyson Foods, Inc.
+262	Uncle Ben's, Inc.
+263	UOP
+264	Van Den Bergh
+265	Loders Croklaan
+266	Vita-Pakt Citrus Product Company
+267	Vitasoy (USA), Inc.
+268	Walden Farms
+269	Warner-Jenkinson Company
+270	Watson Food Company, Inc.
+272	Weight Watchers Food Company
+273	Wendy's International, Inc.
+274	Gorton's
+275	Westbrae Natural Foods
+276	White Wave, Inc.
+277	Weider Nutrition Group
+278	D.D. Williamson & Company
+279	Worthington Foods
+280	Wm. Wrigley Jr. Company
+282	Zerega's Sons, Inc.
+283	Zumbro, Inc.
+284	Geneva Ingredients, Inc.
+285	Tone Brothers, Inc.
+286	Nestle Brands Foodservice Company
+287	Hormel HealthLabs
+288	McNeil Consumer Products Company
+291	Pepperidge Farm, Inc.
+292	Round Table Pizza
+293	Hygrade Food Products Associates
+294	Land O' Frost, Inc.
+295	Sunspire
+296	Med-Diet Labs, Inc.
+299	Birds Eye Foods
+300	Burns & Ricker
+301	Midwest Grain Products, Inc.
+302	Bremner, Inc.
+303	Chicken of the Sea International
+304	Windsor Frozen Foods
+305	Tootsie Roll Industries, Inc.
+306	Cerestar USA
+308	Interstate Brands Corporation
+309	National Sunflower Association
+310	American Mushroom Institute
+311	American Ostrich Association
+312	The Duckling Council
+313	Sanfillipo & Sons
+315	Mastertaste
+317	TCBY Treats
+318	Pepsi Cola 
+319	Axcan Scandipharm
+320	Old London Foods, Inc.
+321	Himmel Nutrition, Inc.
+322	SHS North America
+323	Nestle Clinical Nutrition
+324	Mrs. Paul's
+325	Van de Kamp's
+326	Gardenburger, Inc.
+327	Jennie-O Turkey Store
+328	Angostura
+329	Liberty Richter
+330	GeniSoy Products Company
+331	Gluten-Free Pantry, Inc., The
+333	Marie Callender/ Con Agra, Inc.
+334	Ocean Spray Cranberries
+335	Aurora Foods
+336	Big Red, Inc. 
+337	JM Smucker Company, The
+338	JFC International Inc.
+341	Sunsweet Growers Inc.
+342	Polenta Co., The
+343	Ann Wigmore Foundation (Wheatgrass)
+344	Advance Ingredients, Inc
+345	Gatorade Co., The 
+346	White Castle 
+347	Miyako Oriental Foods, Inc.
+348	Domino's Pizza Inc.
+349	Anheuser-Busch, Inc.
+350	Jamba Juice Company
+352	Arizona Beverages
+353	SportPharma
+354	Fresh Express Inc.
+355	Dr. Pepper / 7 Up, Inc.
+356	Boca Foods Company
+357	CytoSport
+358	King's Hawaiian 
+359	Little Brownie Bakers
+361	Starbucks Coffee
+362	Dunkin' Donuts
+363	Lipton
+364	Otis Spunkmeyer Inc.
+365	Krispy Kreme Doughnut Corporation
+366	Riviana Foods, Inc.
+367	Merisant Company, The
+368	B-Braun
+369	Kerry Ingredients
+370	In-N-Out Burger
+371	Nantucket Nectars
+372	Super Bakery
+373	La Salsa Fresh Mexican Grill
+374	Rubio's Baja Grill
+375	Kettle Foods
+376	Stoneyfield Farm
+377	Lea & Perrins, Inc. 
+378	Unilever Bestfoods
+379	Zartic, Inc.
+380	El Pollo Loco
+381	Papa John's International, Inc.
+383	Togo's Eateries, Inc.
+384	Boston Market Corporation
+385	Faribault Foods, Inc
+386	Pik Nik Foods USA
+387	Blimpie International, Inc. 
+388	Little Caesar Enterprises, Inc.
+389	Auntie Anne's
+390	Star Fine Foods-Borges USA
+391	Schlotzsky's Deli
+392	Mrs. Fields Cookies, Inc.
+393	See's Candies
+394	Clif Bar Inc
+395	ConAgra Foods, Inc
+396	Good Humor-Breyers Ice Cream
+397	Luigino's, Inc.
+398	Balance Bar Company
+399	Silhouette Brands, Inc.
+400	nSpired Natural Foods
+401	Churny Company, Inc.
+402	Sorrento Lactalis, Inc.
+403	American Italian Pasta Co.
+404	ACH Food Companies, Inc.
+405	Keebler Company Foodservice
+406	Pinnacle Foods Corp. 
+407	Claussen Pickle Company
+408	WestSoy
+409	Terra Chips
+410	Hunt's 
+411	Orville Redenbacher's
+412	Swiss Miss
+413	Humko Specialty Powders
+414	George Weston Bakeries
+415	JELL-O
+416	Post Cereal
+417	Northland Cranberries, Inc
+418	Astaris
+419	Alpine Lace
+420	Morningstar Farms
+421	Schwan Food Company, The
+422	Green Giant
+423	Progresso 
+424	Old El Paso
+425	Chick-fil-A
+426	Pillsbury Baking
+427	B & G Foods Inc. 
+428	Casual Gourmet Foods, Inc
+429	Maruchan, Inc
+430	Monarch Beverage Company, The
+431	Atkins Nutritionals, Inc.
+432	Snyder's of Hanover
+433	Galardi Group, Inc.
+434	Cinnabon, Inc
+435	HDOS Enterprises
+436	Cold Stone Creamery
+437	8th Continent LLC
+438	Buitoni
+439	Totino's/Jeno's 
+440	Panda Restaurant Group, Inc. 
+441	Cape Cod Potato Chip Company, The
+442	Papa Murphy’s International 
+443	Bright Beginnings Nutritionals
+444	Tim Hortons
+445	Johnny Rockets Group, Inc., The
+446	Nature's Path
+447	Olive Garden Restaurant
+448	Sonic Drive In
+450	Au Bon Pain
+451	Garlic Jim's
+452	Enova
+453	POM WONDERFUL
+454	Old Orchard Brands, LLC
+455	Barilla Group
+456	Uniqema
+457	Primera Foods
+458	Sunmark, Inc.
+459	Chipotle
+460	Panera Bread
+461	CP Kelco
+462	Cumberland Packing Corp.
+463	Julie's Organic Ice Cream
+464	Cabot Creamery
+465	FIJI Water Company LLC
+466	Annie's Homegrown, Inc.
+467	ACE Sushi Inc
+468	AFC Corporation
+469	EAS, Inc.
+470	Vadilal Industries Limited
+471	Dole Food Company, Inc.
+472	Specialty Polyols Inc.
+473	Whataburger Restaurants LP
+474	Einstein and Noah Corp
+475	Bob's Red Mill Natural Foods
+476	The Valdez Corporation
+477	Jones Soda Co.
+478	President's Choice
+479	NOW- Nutrition for Optimal Wellness
+480	Nanak
+481	Carmi Flavors
+482	Sensient Inc.
+483	Amoretti Flavors
+484	LSI Specialty
+485	Pacific Coast
+486	Skylar Haley LP
+487	CocoaVia
+488	Kinnikinnick Foods Inc.
+489	Roland Foods
+490	Hidden Valley
+491	Huy Fong Foods, Inc
+492	Steel's Gourmet Foods
+493	Zateca Foods
+494	Belgioioso Cheese Inc.
+495	Solace Nutrition
+496	Metagenics, Inc.
+497	Nutricia North America
+498	Neocate
+499	Haribo
+500	Robert's American Gourmet
+501	Inverness Medical Nutritionals Group
+502	Abbott Nutrition
+503	Guayakí
+504	Sensient Dehydrated Flavors
+505	Sensient Colors
+506	Only Sweet Stevia
+507	Boar's Head
+508	Sensient Flavors
+509	Millennium Products, Inc
+510	LLorens Pharmaceuticals
+511	Delallo Foods
+512	Sambazon
+513	Deep Foods, Inc.
+514	MTR Foods Limited
+515	Country Fresh
+516	Lifeway Foods, Inc
+517	Purity Dairies, Inc
+518	Athens Foods, Inc
+519	Santa Cruz Organic
+520	Schneiders Foods
+521	Cambrooke Foods, LLC
+522	Shan Food
+523	Simply Orange Juice Company
+524	Newman's Own Inc.
+525	Earth Island 
+526	Alta Dena Certified Dairy
+527	Ro*Tel
+528	Esseco USA
+529	Greek Island Spice 
+530	A Taste of Thai
+531	Malt-O-Meal Company
+532	Blue Bunny
+533	Denny's
+534	Mrs. Baird's
+535	Lance, Inc
+536	Jason's Deli
+537	Naked Juice Company
+538	Horizon Organic
+539	Fage USA 
+541	Perky's 100% Natural
+542	Enjoy Life Foods
+543	Manitoba Harvest Hemp Foods & Oils
+544	Spice World Inc
+545	Bumble Bee Foods
+546	Ritter's Frozen Custard
+547	Kayem Foods Inc
+548	GlucoBurst
+549	Red Gold Quality Foodservice
+550	Stacy's Pita Chips
+551	P. F. Chang's China Bistro
+552	Simplot Foods
+553	Turtle Island Foods, Inc
+554	The Organic Bistro
+555	C and H Sugar Co.
+556	QA Products, Inc
+557	Jungbunzlauer Inc.
+558	Emeral Hilton Davis, LLC
+559	Bell Flavors and Fragrances, Inc.
+560	Imperial Sugar Company
+561	Guittard Chocolate Company
+562	DiGiorno
+563	Nancy's Cultured Dairy and Soy
+564	Bruce Foods Corporation
+565	Specialty Brands of America
+566	Custom Ingredients, Inc
+567	Turtle Mountain, LLC
+568	Mission Foods
+569	Atlanta Bread Company
+570	Diamond Foods, Inc
+571	Betty Crocker
+572	Colombo Yogurt
+573	Yoplait
+574	South Beach Living
+575	Planters
+577	Tombstone Pizza
+578	Cracker Barrel Cheese
+579	Good Seasons
+580	Philadelphia Cream Cheese
+581	Maxwell House
+582	Kool Aid
+583	General Foods International
+584	Jimmy Dean
+585	Hubig's Pies 
+586	Hillshire Farm Foodservice
+587	Fazoli's
+588	Bob Evans
+589	Living Harvest
+590	Boston Pizza
+591	Breadsmith Bakery
+592	Broaster
+593	Bruegger's Bagels
+594	Buddy's Bar-B-Q
+595	Old Country Buffet
+596	Brusters Old Fashioned Ice Cream & Yogurt
+597	Blue Bell
+598	Double Dave's Pizza
+599	Baja Fresh Mexican Grill
+600	Back to Nature
+601	Futters Nut Butters
+602	Torani
+603	Taco Del Mar
+604	Shearer's 
+605	Amato's
+606	A&W Canada
+607	Camille's Sidewalk Café
+608	Captain D's
+609	Checker's/Rally's
+610	Cousins Subs
+611	Crispers
+612	D'Angelos
+613	Daylight Donuts
+614	Dino's Gyros
+615	Dippin' Dots
+616	Edo Japan
+617	Finagle Bakery Cafe
+618	Firebirds Wood Fired Grill
+619	Five Guys Burgers and Fries
+620	Frullati Cafe
+621	Kern's Beverages
+622	Welch's 
+623	Ohly Americas
+624	Caravan Ingredients
+625	House of Bread
+626	Ice Pan Ice Cream
+627	Jerry's Subs & Pizza
+628	Jersey Mike's Subs
+629	Jimmy John's
+630	Jreck Subs
+631	Juice It Up
+632	Karmelkorn
+633	Kohr Brothers
+634	Kolache Factory
+635	Koo Koo Roo
+636	Godfather's Pizza
+637	A&W USA
+638	Big Apple Bagels
+639	Carvel Ice Cream
+640	Manchu Wok
+641	Planet Sub
+642	Soupbox
+643	TJ Cinnamons
+644	Golden Chick
+645	Snappy Tomato Pizza
+646	Lee's Famous Chicken
+647	Combos
+648	RockStar Energy Drink 
+649	Monster Beverage Co
+650	Wegmans

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/filter_results_menu_item" android:title="Filter results"></item>
+    <item android:id="@+id/new_query_menu_item" android:title="Start New Query"></item>
+    <item android:id="@+id/revise_query_menu_item" android:title="Revise Query"></item>
+    <item android:id="@+id/clear_filter_menu_item" android:title="Clear Filter"></item>
+    
+</menu>

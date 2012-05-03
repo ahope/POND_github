@@ -1,0 +1,7 @@
+"UnitTypeID","UnitTypeName"
+1,"Length"
+2,"Time"
+3,"Amount"
+4,"Volume"
+5,"Weight"
+6,"Nutrient"

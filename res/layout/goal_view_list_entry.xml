@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" 
+  android:layout_marginLeft="5dp" 
+  android:layout_marginRight="5dp">
+  	<RelativeLayout android:id="@+id/relativeLayout2" android:layout_width="fill_parent" android:layout_alignParentRight="true" android:layout_alignParentTop="true" android:layout_alignParentLeft="true" android:layout_height="wrap_content">
+    <TextView android:text="TextView" android:layout_height="wrap_content" android:id="@+id/goal_name_TextView" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_width="wrap_content" android:layout_marginLeft="3dp" android:layout_marginRight="7dp" android:layout_alignParentBottom="true"></TextView>
+    <TextView android:text="TextView" android:layout_height="wrap_content" android:id="@+id/goal_infoTextView" android:layout_width="wrap_content" android:layout_toRightOf="@id/goal_name_TextView" android:layout_alignParentBottom="true"></TextView>
+    
+  	</RelativeLayout>
+    <RelativeLayout android:id="@+id/relativeLayout1" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_width="fill_parent" android:layout_below="@id/relativeLayout2">
+        <CheckBox android:id="@+id/goal_include_CheckBox" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_centerVertical="true" android:layout_alignParentRight="true"></CheckBox>
+        <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:background="@drawable/button_bg_alcohol" android:text="-" android:textColor="@color/white" android:textStyle="bold" android:textSize="30dp" android:id="@+id/goal_decreaseButton" android:layout_centerVertical="true" android:layout_alignParentLeft="true" android:layout_marginLeft="3dp" android:layout_marginRight="3dp"></Button>
+        <Button android:background="@drawable/button_bg_alcohol" android:layout_height="wrap_content" android:textSize="30dp" android:text="+" android:textColor="@color/white" android:id="@+id/goal_increaseButton" android:textStyle="bold" android:layout_width="wrap_content" android:layout_toLeftOf="@id/goal_include_CheckBox" android:layout_centerVertical="true" android:layout_marginLeft="3dp" android:layout_marginRight="3dp"></Button>
+        <LinearLayout android:id="@+id/linearLayout1" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_toRightOf="@id/goal_decreaseButton" android:layout_centerVertical="true" android:layout_toLeftOf="@id/goal_increaseButton" android:orientation="vertical">
+        </LinearLayout>
+    </RelativeLayout>
+    
+</RelativeLayout>

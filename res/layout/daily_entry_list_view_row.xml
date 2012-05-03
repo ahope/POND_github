@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent" android:layout_height="fill_parent" android:orientation="vertical" android:focusableInTouchMode="false" android:focusable="false">
+    <RelativeLayout android:id="@+id/relativeLayout1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:focusable="false" android:focusableInTouchMode="false">
+        <TextView android:layout_alignParentTop="true" android:id="@+id/daily_entry_time_TextView" android:text="TextView" android:layout_width="wrap_content" android:layout_alignParentRight="true" android:layout_height="wrap_content" android:focusableInTouchMode="false" android:focusable="false" android:paddingLeft="3dp"></TextView>
+        <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:layout_height="wrap_content" android:focusable="false" android:layout_width="wrap_content" android:id="@+id/daily_entry_desc_TextView" android:text="TextView" android:focusableInTouchMode="false" android:layout_toLeftOf="@+id/daily_entry_time_TextView" android:layout_alignParentLeft="true"></TextView>
+        <TextView android:id="@+id/daily_entry_detail_TextView" android:text="TextView" android:layout_alignParentLeft="true" android:layout_width="fill_parent" android:layout_below="@id/daily_entry_desc_TextView" android:layout_height="wrap_content" android:focusable="false" android:focusableInTouchMode="false"></TextView>
+    </RelativeLayout>
+    <LinearLayout android:id="@+id/linearLayout3" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="34dip" android:focusable="false" android:focusableInTouchMode="false">
+    </LinearLayout>
+    
+</LinearLayout>

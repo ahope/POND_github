@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_height="match_parent" android:orientation="vertical" android:layout_width="fill_parent">
+    <LinearLayout android:id="@+id/linearLayout1" android:orientation="vertical" android:layout_height="wrap_content" android:layout_width="fill_parent">
+        <Button android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/food_amount_whole_increase_Button" android:text="More"></Button>
+        <EditText android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="number" android:id="@+id/food_amount_whole_EditText" android:digits="@string/non_decimal_integers">
+            <requestFocus></requestFocus>
+        </EditText>
+        <Button android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/food_amount_whole_decrease_Button" android:text="Less"></Button>
+    </LinearLayout>
+    <Spinner android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/choose_component_Spinner" android:background="@drawable/pretty_spinner_bg"></Spinner>
+    
+</LinearLayout>

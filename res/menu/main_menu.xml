@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/do_food_query_menuItem" android:title="Search for Food" android:titleCondensed="Search"></item>
+    <item android:id="@+id/show_entry_history_menuItem" android:title="Show Today's Entries" android:titleCondensed="Daily Entries"></item><item android:titleCondensed="Create Custom" android:id="@+id/create_point_entry_menuItem" android:title="Create Custom "></item><item android:title="Locations" android:id="@+id/show_locations_menuItem" android:titleCondensed="Locations"></item><item android:id="@+id/history_overview_menuItem" android:title="Week Overview" android:titleCondensed="Week Overview"></item><item android:id="@+id/show_goals_menuItem" android:title="Show &amp; Edit Goals" android:titleCondensed="Goals"></item>
+    
+    
+    <item android:title="Send Data" android:id="@+id/send_data_menuItem"></item>
+    <item android:title="Start Study" android:id="@+id/start_study_menuItem"></item>
+    
+    
+    
+</menu>

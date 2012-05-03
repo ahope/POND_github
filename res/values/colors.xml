@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="VEGGIE_GREEN">#2f9100</color>
+    <color name="VEGGIE">#71d100</color>
+    <color name="SUGAR">#f56100</color>
+    <color name="SODIUM">#fc8902</color>
+    <color name="PROTEIN">#8104d1</color>
+    <color name="GRAINS_WHOLE">#6b420c</color>
+    <color name="GRAINS">#bc8931</color>
+    <color name="FRUIT_WHOLE">#c90018</color>
+    <color name="FRUIT">#fd8abd</color>
+    <color name="FATS">#f0bf00</color>
+    <color name="DAIRY">#0b94f4</color>
+    <color name="ALCOHOL">#cc0abc</color>
+    <color name="ALL">#fff</color>
+    <color name="OILS">#ffed00</color>
+    
+	<color name="VEGGIE_GREEN_LIGHT">#d3f9c1</color>
+    <color name="VEGGIE_LIGHT">#e3fdc3</color>
+    <color name="SUGAR_LIGHT">#FFF</color>
+    <color name="SODIUM_LIGHT">#ffecd6</color>
+    <color name="PROTEIN_LIGHT">#edd4fd</color>
+    <color name="GRAINS_WHOLE_LIGHT">#fff2e1</color>
+    <color name="GRAINS_LIGHT">#fff2e1</color>
+    <color name="FRUIT_WHOLE_LIGHT">#ffd2d7</color>
+    <color name="FRUIT_LIGHT">#fde1ed</color>
+    <color name="FATS_LIGHT">#fffdde</color>
+    <color name="DAIRY_LIGHT">#dbeffd</color>
+    <color name="ALCOHOL_LIGHT">#fde1fb</color>
+    
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+</resources>

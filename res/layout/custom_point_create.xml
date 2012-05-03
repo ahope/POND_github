@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:isScrollContainer="true" android:padding="5sp" android:id="@+id/layout_root_nut_info_card">
+    <LinearLayout android:layout_height="wrap_content" android:orientation="vertical" android:id="@+id/headerLayout" android:layout_width="fill_parent" android:layout_alignParentTop="true">
+        <EditText android:id="@+id/editText1" android:layout_height="wrap_content" android:layout_width="match_parent" android:hint="name..." android:inputType="textCapWords">
+            <requestFocus></requestFocus>
+        </EditText>
+        <EditText android:id="@+id/editText2" android:layout_height="wrap_content" android:layout_width="match_parent" android:hint="notes..." android:inputType="textCapSentences"></EditText>
+    </LinearLayout>
+    <LinearLayout android:id="@+id/footerLayout" android:orientation="vertical" android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_alignParentBottom="true">
+
+        <CheckBox
+            android:id="@+id/add_to_diary_CheckBox"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Add to diary" />
+
+        <Button android:id="@+id/button1" android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="Save"></Button>
+    </LinearLayout>
+    <ListView android:id="@+id/listView1" android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_above="@+id/footerLayout" android:layout_below="@+id/headerLayout"></ListView>
+    
+</RelativeLayout>

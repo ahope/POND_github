@@ -1,0 +1,388 @@
+"FoodID","LineNumber","NotesText"
+25000,1,"1 cup servings"
+25001,1,"about 1 cup servings"
+25002,1,"about 1/2 cup servings without ice"
+25003,1,"3/4 cup servings"
+25005,1,"1 cup servings"
+25006,1,"1 cup servings"
+25007,1,"1 slice (1/20 of loaf) servings"
+25008,1,"1 biscuit servings"
+25009,1,"1/3 cup servings"
+25010,1,"1 piece (about 2 by 3 3/4 inches) servings"
+25011,1,"1 piece (about 2 by 2 inches) servings"
+25012,1,"about 1/2 cup servings"
+25013,1,"1 roll (approx. 1 1/2 ounces)"
+25014,1,"1 muffin servings"
+25015,1,"1 muffin servings"
+25016,1,"about 1/2 cup servings"
+25017,1,"about 1/2 cup servings"
+25018,1,"1/3 cup servings"
+25019,1,"1 roll servings (approx. 1 1/4 oz ea)"
+25020,1,"1 roll servings (approx. 1 1/4 oz)"
+25021,1,"1 piece (about 2 by 3 3/4 inches) servings"
+25022,1,"1/2 cup servings"
+25023,1,"1/2 cup servings"
+25024,1,"1/2 cup servings"
+25025,1,"1 cookie servings"
+25026,1,"1/2 cup servings"
+25027,1,"1 piece (2 by 2 inches) servings"
+25028,1,"1 slice (1/8 pie) servings"
+25029,1,"1piece (2 by 2 inches) servings"
+25030,1,"about 1 1/3 tablespoon servings"
+25031,1,"about 1/2 cup servings"
+25032,1,"about 1/2 cup servings"
+25033,1,"1 piece (about 2 by 3 3/4 inches) servings"
+25034,1,"1 piece (about 2 by 3 3/4 inches) servings"
+25035,1,"1/4 cup or 1 egg servings"
+25036,1,"3 ounce servings"
+25037,1,"3 ounce servings"
+25038,1,"3 ounce servings"
+25039,1,"3 ounce servings"
+25040,1,"3 ounce servings"
+25041,1,"3 ounce servings"
+25042,1,"3 ounce servings"
+25043,1,"3 ounce servings"
+25044,1,"3 ounce servings"
+25045,1,"3 ounce servings"
+25046,1,"1 egg servings"
+25047,1,"can roast up to 4 1/2 hours at 325 degrees F
+3 ounce servings"
+25048,1,"can roast up to 4 hours at 325 degrees F
+3 ounce servings"
+25049,1,"can roast up to 2 1/2 hours at 325 degrees F
+3 ounce servings"
+25050,1,"can roast up to  4 hours at 325 degrees F
+3 ounce servings"
+25051,1,"can roast up to 3 1/2 hours at 325 degrees F
+3 ounce servings"
+25052,1,"can roast up to 3 hours at 325 degrees F
+3 ounce servings"
+25053,1,"can roast up to 5 1/2 hours at 325 degrees F
+3 ounce servings"
+25054,1,"can roast up to 4 hours at 325 degrees F
+3 ounce servings"
+25055,1,"can roast up to 4 hours at 325 degrees F
+3 ounce servings"
+25056,1,"can roast up to 2 1/2 hours at 325 degrees F
+3 ounce servings"
+25057,1,"can roast up to 4 hours at 325 degrees F
+3 ounce servings"
+25058,1,"can roast up to 2 1/2 hours at 325 degrees F
+3 ounce servings"
+25059,1,"can roast up to 3 hours at 325 degrees F
+3 ounce servings"
+25060,1,"can roast up to 3 1/2 hours at 325 degrees F
+3 ounce servings"
+25061,1,"can braise up to 4 hours at 350 degrees F
+3 ounce servings"
+25062,1,"can braise up to 5 hours at 350 degrees F
+3 ounce servings"
+25063,1,"can braise up to 2 hours at 350 degrees F
+3 ounce servings"
+25064,1,"can braise up to 5 hours at 350 degrees F
+3 ounce servings"
+25065,1,"can braise up to 1 hour at 350 degrees F
+3 ounce servings"
+25066,1,"can braise up to 2 hours at 350 degrees F
+3 ounce servings"
+25067,1,"can simmer up to 1 1/2 hours 
+3 ounce servings"
+25068,1,"3 ounce servings"
+25069,1,"can braise up to 2 1/2 hours at 350 degrees F
+3 ounce servings"
+25070,1,"can braise up to 1 hour at 350 degrees F
+3 ounce servings"
+25071,1,"3 ounce servings"
+25072,1,"can braise up to 1 hour at 350 degrees F
+3 ounce servings"
+25073,1,"can braise up to 1 hour at 350 degrees F
+3 ounce servings"
+25074,1,"can braise up to 2 1/2 hours at 350 degrees F
+3 ounce servings"
+25075,1,"can simmer up to 4 hours
+3 ounce servings"
+25076,1,"can simmer up to 4 hours
+3 ounce servings"
+25077,1,"can roast up to 7 1/2 hours at 325 degrees F depending on size of turkey
+3 ounce servings"
+25078,1,"stew for up to 4 hours depending on size of chicken
+3 ounce servings"
+25079,1,"can bake up to 40 minutes at 350 degrees F
+3 ounce servings"
+25080,1,"can bake up to 40 minutes at 425 degrees F
+3 ounce servings"
+25081,1,"can be baked up to 20 minutes
+3 ounce portions"
+25082,1,"can be broiled up to 15 minutes
+3 ounce servings"
+25083,1,"3 ounce servings"
+25084,1,"can be steamed up to 10 minutes
+3 ounce servings"
+25085,1,"can be steamed up to 15 minutes
+3 ounce servings
+
+Weight of crab meat calculated using 133.5 pounds x 17% (83% refuse) = 23 pounds."
+25086,1,"can be steamed up to 20 minutes
+4-1/2 ounce servings per lobster
+
+Weight of meat calculated using an average 18 oz lobster x 100 servings x 28% (or 72% refuse) / 16 oz = 31.5 pounds raw meat."
+25087,1,"can be steamed up to 5 minutes
+3 ounce servings"
+25088,1,"about 3/4 cup servings"
+25090,1,"about 2/3 cup servings"
+25091,1,"1 piece (about 2 by 3 3/4 inches) servings"
+25092,1,"about 2/3 cup beef and 1/3 cup potato servings"
+25093,1,"1 breast half or leg and 1/3 cup sauce servings"
+25094,1,"about 1/2 cup servings"
+25095,1,"1 piece (about 2 by 2 inches) servings"
+25096,1,"about 1/2 cup servings"
+25097,1,"1 piece (about 2 by 2 inches) servings"
+25098,1,"1 piece (about 2 by 2 inches) servings"
+25099,1,"3/4 cup servings"
+25100,1,"1 chop plus about 1/4 cup sauce servings"
+25101,1,"about 2/3 cup pork and 1/2 cup rice servings"
+25102,1,"about 1 cup servings"
+25103,1,"about 1 cup servings"
+25104,1,"about 3/4 cup liver and 1/2 cup rice servings"
+25105,1,"1 slice (about 5/8 inch thick) servings"
+25106,1,"about 1/2 cup servings"
+25107,1,"Adjusted chicken amount and portion to account for weight-
+need 62.5 lb AP - 32% refuse (bone) x 16 oz/1 lb = 42.5 lb"
+25108,1,"1 piece plus 1/4 cup sauce servings"
+25109,1,"1 steak plus 2 tablespoons sauce servings"
+25110,1,"about 1/3 cup beef and 1/2 cup noodles servings"
+25111,1,"about 3/4 cup servings"
+25112,1,"about 3/4 cup servings"
+25113,1,"about 1 cup servings"
+25114,1,"about 1 cup servings"
+25115,1,"about 1 cup servings"
+25116,1,"about 1 1/4 cup servings"
+25117,1,"about 1 1/4 cup servings"
+25118,1,"about 1/2 cup servings"
+25119,1,"about 1/2 cup servings"
+25120,1,"about 3/4 cup servings"
+25121,1,"about 1/2 cup servings"
+25122,1,"about 1/4 cup servings"
+25123,1,"about 1/2 cup servings"
+25124,1,"about 2 teaspoon servings"
+25125,1,"1 piece (about 2 by 3 3/4 inches) servings"
+25126,1,"1 piece (about 2 by 3 3/4 inches) servings"
+25127,1,"about 1/2 cup servings"
+25128,1,"about 1 cup servings"
+25129,1,"about 1 tablespoon servings"
+25165,1,"1 biscuit per serving"
+25166,1,"1 biscuit serving"
+25167,1,"1 biscuit per serving"
+25168,1,"1 biscuit per serving"
+25169,1,"1 biscuit serving"
+25170,1,"1 piece (3.6''x2.6'') serving, or 
+1 slice (1/2'' thick) serving"
+25171,1,"1 piece (2.4''x2'') serving, or
+1 slice (1/2'' thick) serving"
+25172,1,"1/3 cup serving"
+25173,1,"1/3 cup serving"
+25174,1,"1 slice about 1/2 inch thick per serving"
+25175,1,"1 roll (2 oz.) serving"
+25177,1,"2/3 cup serving
+100 servings makes about 4 1/2 gallons"
+25178,1,"1 slice (7/8 inch) thick serving
+100 servings makes 4 loaves (25 slices per loaf)"
+25179,1,"1 piece (2.4''x2'') serving"
+25180,1,"1 piece (2.4''x2'') serving"
+25181,1,"1 piece (2.4''x2'') serving"
+25182,1,"1 pancake (4 inch) serving"
+25183,1,"1 pancake (4 inch) serving"
+25186,1,"1 roll (2 oz) serving"
+25187,1,"1 roll (2 oz) serving"
+25188,1,"1/4 cup serving
+100 servings makes about 1 1/2 gallons"
+25189,1,"1 piece (2.4''x2'') serving"
+25190,1,"1 slice (5/8'' thick) serving"
+25191,1,"1 slice (5/8 in. thick) serving
+"
+25192,1,"1 slice (5/8 in. thick) serving"
+25193,1,"1 slice (5/8'' thick) serving"
+25194,1,"1 slice (5/8'' thick) serving"
+25195,1,"1 slice (5/8'' thick) serving"
+25196,1,"1 piece (2.4''x 4'') serving"
+25197,1,"1 piece (2.4''x4'') serving"
+25198,1,"1 piece (2.4''x4'') serving"
+25199,1,"1 piece (2.4''x2'') serving"
+25200,1,"1 piece (2.4''x2'') serving"
+25201,1,"1 piece (3.6''x2.6'') serving"
+25202,1,"1 piece (1.8''x2.6'') serving"
+25203,1,"1 piece (3.6''x2.6'') serving"
+25204,1,"1 piece (2.4''x4'') serving"
+25205,1,"1 piece (2.4''x2'') serving"
+25206,1,"1 piece (3.6''x2.6'') serving"
+25207,1,"1 cookie serving"
+25209,1,"1 piece (2.4''x4'') serving"
+25212,1,"1 piece (2.4''x4'') serving"
+25213,1,"1 cookie (approximately 2 1/2'' diameter) serving"
+25214,1,"1/3 cup serving
+100 servings makes about 2 1/4 gallons"
+25215,1,"1 piece (3.6''x2.6'') serving"
+25216,1,"1 piece (3.6''x2.6'') with 2 Tbsp topping per serving"
+25217,1,"1 1/4 Tbsp serving
+100 servings makes about 1/2 gallon"
+25218,1,"1 1/4 tablespoon serving
+100 servings makes 1/2 gallon"
+25219,1,"1 1/4 Tbsp serving"
+25220,1,"2 Tbsp serving
+100 servings makes about 3 quarts"
+25221,1,"1 piece (3.6''x2.6'') serving"
+25222,1,"1 piece (3.6''x2.6'') serving"
+25223,1,"1 piece (3.6''x2.6'') serving"
+25224,1,"2 ounce serving"
+25225,1,"1 burrito per serving"
+25226,1,"1 burrito serving"
+25228,1,"2 tacos per serving"
+25229,1,"2 taco serving"
+25230,1,"2 tacos per serving"
+25232,1,"2 tacos per serving"
+25233,1,"1 cup serving
+100 servings:  about  6 1/2 gallons."
+25234,1,"1 piece (2.4''x4'') serving"
+25235,1,"1 piece (2.4''x4'') serving"
+25236,1,"1 piece (2.4''x4'') serving"
+25238,1,"3/4 cup serving"
+25240,1,"1 cup serving"
+25242,1,"3/4 cup serving"
+25244,1,"1 piece (2.4''x4'') serving"
+25246,1,"1/2 cup serving
+100 servings makes about 3 gallons"
+25247,1,"1/2 cup serving
+100 servings makes about 3 gallons"
+25248,1,"2 oz serving"
+25249,1,"3/4 cup serving
+100 servings makes about 5 gallons"
+25250,1,"3/4 cup serving
+100 servings makes about 5 gallons"
+25251,1,"2/3 cup serving
+100 servings makes about 4 1/2 gallons"
+25252,1,"3/4 cup serving
+100 servings makes about 4 1/2 gallons"
+25253,1,"1 piece (2.4''x 4'') serving"
+25254,1,"1 piece (2.4''x4'') serving"
+25255,1,"2/3 cup serving
+100 servings makes about 4 gallons"
+25256,1,"2/3 cup serving
+100 servings makes about 4 gallons"
+25257,1,"1 slice (3/4'' thick) serving"
+25258,1,"1/3 cup meat/3/4 oz nachos serving"
+25262,1,"1 piece (2.4''x4'') serving"
+25264,1,"1/4 cup serving"
+25265,1,"3/4 cup serving"
+25266,1,"3/4 cup serving
+100 servings makes about 5 gallons"
+25267,1,"1 cup serving
+100 servings makes about 6 1/2 gallons"
+25269,1,"1/4 cup serving
+100 servings makes about 1 gallon 2 1/2 quarts"
+25270,1,"1/2 cup servings
+100 servings makes about 3 1/2 gallons"
+25271,1,"1/4 cup serving
+100 servings makes about 1 gallon 2 1/2 quarts"
+25272,1,"1/2 cup serving
+100 servings makes about 3 gallons"
+25273,1,"3/8 cup serving
+100 servings makes about 2 1/2 gallons"
+25274,1,"1/2 cup serving
+100 servings makes about 3 gallons"
+25275,1,"1 salad serving"
+25276,1,"1/4 cup serving
+100 servings makes about 1 gallon 2 1/2 quarts"
+25277,1,"1/4 cup serving
+100 servings makes about 1 3/4 gallons"
+25278,1,"1 oz serving
+100 servings makes about 1 gallon"
+25279,1,"1 oz serving
+128 servings makes about 1 gallon"
+25280,1,"1 oz serving
+128 servings makes about 1 gallon"
+25281,1,"2 Tbsp serving
+128 servings makes about 1 gallon"
+25282,1,"1 sandwich with 2 oz. meat serving"
+25283,1,"1 sandwich serving
+Egg Salad:  100 servings makes about 2 gallons"
+25284,1,"1 sandwich serving"
+25285,1,"1 sandwich with 1/3 cup filling per serving"
+25287,1,"1 sandwich serving"
+25288,1,"1 sandwich serving"
+25289,1,"2 Tablespoon serving
+Entire Recipe makes 1 gallon"
+25290,1,"2 tablespoon serving"
+25291,1,"3 Tbsp serving
+100 servings makes about 1 1/4 gallons"
+25292,1,"2 Tbsp serving
+128 servings makes 1 gallon"
+25293,1,"2 Tbsp (1 oz) serving
+128 servings makes about 1 gallon"
+25294,1,"2 Tbsp serving
+128 servings makes about 1 gallon"
+25295,1,"2 Tablespoon serving
+128 servings makes about 1 gallon"
+25296,1,"1 cup servings
+100 servings makes about 6 1/2 gallons."
+25297,1,"1 cup serving
+For 100 servings: makes about 6 1/2 gallons"
+25298,1,"1 cup serving
+100 servings makes about 6 1/2 gallons"
+25299,1,"1 cup serving"
+25300,1,"1/2 cup servings"
+25301,1,"1/4 cup servings"
+25302,1,"1/3 cup serving"
+25303,1,"1/4 cup serving
+100 servings makes about 2 gallons"
+25304,1,"1 piece (2.4''x2'') serving"
+25305,1,"1/4 cup serving
+100 servings makes about 1 1/2 gallons"
+25306,1,"1/4 cup serving
+100 servings makes about 1 1/2 gallons"
+25307,1,"1/4 cup serving"
+25308,1,"1/2 cup serving"
+25309,1,"1/4 cup serving"
+25310,1,"1/2 cup serving"
+28503,1,"Preparation time is long due to the 3 1/2 hours to bake the meringue shell."
+28564,1,"1 cookie serving"
+29016,1,"The serving is 3 ounces meat only (before the addition of any liquid) and 2 ounces gravy."
+29017,1,"The 3 ounce measure is 2 ounces of meat only (before the addition of any liquid) and 1 ounce of barbecue sauce."
+29018,1,"The 2 ounce serving is meat only (before the addition of liquid)."
+29019,1,"Serving consists of 2 ounces of meat (prior to adding liquid) and 1 ounce of gravy."
+29020,1,"Serving consists of 2 ounces of fish (before addition of liquid) and 1 ounce sauce."
+29021,1,"Serving consists of 2 ounces meat (before addition of liquid) and 1 ounce of gravy."
+29022,1,"Serving consists of 2 ounces meat (before addition of any liquid) and 1 ounce gravy."
+29023,1,"The 2 ounce serving is meat only (before the addition of any liquid)."
+29028,1,"Serving consists of 3 ounces meat (before addition of liquid) and 2 ounces of sauce."
+29029,1,"Serving consists of 2 ounces of meat (before addition of liquid) and 2 ounces of gravy."
+33067,1,"3 meatballs is one serving.  The recipe makes 8 servings but suggests that 4 servings are for another meal."
+33093,1,"2 by 2 inch piece"
+34225,1,"Management in Food & Nutrition Systems DPG"
+34305,1,"1 piece = 2 oz muffin"
+34324,1,"1 piece serving = 1/8 of 10'' pie shell"
+55751,1,"Indian Recipe"
+55752,1,"Indian Recipes"
+55753,1,"Indian Recipes"
+55754,1,"Indian Recipes"
+55755,1,"Indian Recipes"
+55756,1,"Indian Recipes"
+55757,1,"Indian Recipe"
+55758,1,"Indian Recipe"
+55759,1,"Indian Recipe"
+55760,1,"Indian Recipe"
+55761,1,"Indian Recipe"
+55762,1,"Indian Recipe"
+55763,1,"Indian Recipe"
+55764,1,"Indian Recipe"
+55765,1,"Indian Recipe"
+55766,1,"Indian Recipe"
+55767,1,"Indian Recipe"
+55768,1,"Indian Recipe"
+55769,1,"Indian Recipe"
+55770,1,"Indian Recipe"
+55771,1,"Indian Recipe"
+55772,1,"Indian Recipe"
+55773,1,"Indian Recipe"
+55774,1,"Indian Recipe"
+55775,1,"Indian Recipe"
+55776,1,"Indian Recipe"

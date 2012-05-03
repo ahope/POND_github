@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:left="2px"
+        android:right="2px" 
+        android:top="2px"
+        android:bottom="2px">
+        <shape
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:shape="rectangle">
+    <solid android:color="@color/FRUIT_WHOLE"></solid>
+    <padding android:left="1sp"
+    		  android:right="1sp"
+    		  android:bottom="1sp"
+    		  android:top="1sp"/>
+    <size 
+    	android:width="20sp"
+    	android:height="20sp"></size>
+    
+</shape>
+
+</item>
+
+<item android:left="6sp"
+    		  android:right="6sp"
+    		  android:bottom="6sp"
+    		  android:top="6sp">
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:shape="oval">
+    <solid android:color="@color/white"></solid>
+      
+    <size 
+    	android:width="8sp"
+    	android:height="8sp"></size>
+</shape>
+</item>
+</layer-list>

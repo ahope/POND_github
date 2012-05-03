@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:fillViewport="true" android:isScrollContainer="true">
+<LinearLayout
+  android:orientation="vertical"
+  android:padding="5sp" 
+  android:id="@+id/layout_root_nut_info_card" 
+  android:layout_width="fill_parent" android:layout_height="wrap_content">
+    <TextView android:layout_width="fill_parent" 
+    	android:textSize="20dp" 
+    	android:layout_height="wrap_content" 
+    	android:textStyle="bold" 
+    	android:typeface="normal" 
+    	android:textColor="@color/white" 
+    	android:id="@+id/food_detail_foodName_TextView" android:text="Food name"></TextView>
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@+id/food_detail_manName_TextView"></TextView>
+    <LinearLayout android:layout_width="fill_parent" android:weightSum="3" android:id="@+id/linearLayout3" android:layout_height="wrap_content">
+        <EditText android:layout_width="0dp" android:layout_height="wrap_content" android:id="@+id/food_detail_servingAmt_editText" android:inputType="number" android:focusableInTouchMode="false" android:focusable="false" android:layout_weight="1">
+        </EditText>
+        <Spinner android:layout_width="0dp" android:layout_height="wrap_content" android:id="@+id/food_detail_serving_Spinner" android:layout_weight="2"></Spinner>
+    </LinearLayout>
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:gravity="right" android:id="@+id/servingNote_TextView"></TextView>
+    <LinearLayout android:layout_width="fill_parent" android:orientation="vertical" android:layout_height="wrap_content" android:id="@+id/food_detail_Points_ListLayout">
+    </LinearLayout>
+    <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/food_detail_ShowMoreButton" android:text="Show More" android:background="@color/black" android:textColor="@color/white"></Button>
+    <LinearLayout android:layout_height="wrap_content" android:layout_width="match_parent" android:orientation="vertical" android:id="@+id/food_detail_PointsExtra_ListLayout"></LinearLayout>
+    <Button android:id="@+id/button1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Add to Journal"></Button>
+    
+</LinearLayout>
+</ScrollView>

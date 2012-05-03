@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:orientation="horizontal" android:background="@color/black">
+    <ImageView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/imageView1" android:layout_gravity="center_vertical" android:padding="6sp" android:src="@drawable/veggie_green_extra"></ImageView>
+    <CheckedTextView android:text="CheckedTextView" android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/item_CheckedTextView" android:layout_gravity="center_vertical"></CheckedTextView>
+    
+</LinearLayout>

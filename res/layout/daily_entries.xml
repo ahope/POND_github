@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:padding="3sp">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/DAIRY"
+        android:padding="3dp" >
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/dairy"
+            android:padding="5sp"
+            android:text="Today"
+            android:textAppearance="@style/locationSpinnerTextStyle" />
+
+        <Button
+            android:id="@+id/prev_day_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/textView8"
+            android:background="@color/DAIRY"
+            android:text="&lt;"
+            android:textColor="#FFF"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:typeface="sans" />
+
+        <Button
+            android:id="@+id/next_day_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/textView8"
+            android:background="@color/DAIRY"
+            android:text=">"
+            android:textColor="#FFF"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:typeface="sans" />
+
+        <Button
+            android:id="@+id/home_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_centerVertical="true"
+            android:text="Home" />
+
+        <Button
+            android:id="@+id/add_food_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/button_bg_alcohol"
+            android:text="+"
+            android:textAppearance="@style/locationSpinnerTextStyle"
+            android:textColor="#FFF"
+            android:textSize="30dp" />
+    </RelativeLayout>
+
+  <android.gesture.GestureOverlayView
+    android:id="@+id/gestures"
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent"
+    android:gestureStrokeType="single"
+    android:eventsInterceptionEnabled="true"
+    android:orientation="vertical" android:gestureColor="@android:color/transparent" android:uncertainGestureColor="@android:color/transparent">
+      <ListView android:descendantFocusability="blocksDescendants" android:scrollbars="none" android:layout_height="fill_parent" android:id="@+id/daily_entries_ListView" android:focusable="true" android:focusableInTouchMode="true" android:isScrollContainer="false" android:longClickable="true" android:layout_width="fill_parent"></ListView>
+    </android.gesture.GestureOverlayView>
+</LinearLayout>

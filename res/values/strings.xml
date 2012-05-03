@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Menu item text [CHAR LIMIT=NONE] -->
+    <string name="accounts">Accounts</string>
+
+    <!-- Dialog button [CHAR LIMIT=NONE] -->
+    <string name="add_account">Add account...</string>
+
+    <!--  Name of the application in the launcher [CHAR LIMIT=NONE] -->
+    <string name="app_name">POND_Proto</string>
+
+    <!-- Dialog title text [CHAR LIMIT=NONE] -->
+    <string name="attention">Attention</string>
+
+    <!-- Button text [CHAR LIMIT=NONE] -->
+    <string name="connect">Connect</string>
+
+    <!-- Message text for "Connect" screen [CHAR LIMIT=NONE] -->
+    <string name="connect_text">This application requests permission to connect your mobile device to the cloud.</string>
+
+    <!-- Header text for "Connect" screen [CHAR LIMIT=NONE] -->
+    <string name="connect_to_the_cloud">Connect To The Cloud</string>
+
+    <!-- Header text for "Connected" screen [CHAR LIMIT=NONE] -->
+    <string name="connected_to_the_cloud">Connected To The Cloud</string>
+
+    <!-- Message text [CHAR LIMIT=NONE] -->
+    <string name="contacting_server">Contacting server...</string>
+
+    <!-- Button text [CHAR LIMIT=NONE] -->
+    <string name="disconnect">Disconnect</string>
+
+    <!-- Informational text for "Connected" screen with placeholder for account name [CHAR LIMIT=NONE] -->
+    <string name="disconnect_text">This device is currently connected to the cloud as %1$s.  To disconnect, press the button below.</string>
+
+    <!-- Footer text for "Connect" screen [CHAR LIMIT=NONE] -->
+    <string name="do_you_want_to_connect">Do you want to connect?</string>
+
+    <!-- Button text [CHAR LIMIT=NONE] -->
+    <string name="exit">Close</string>
+
+    <!-- Initial "hello, world" informational message [CHAR LIMIT=NONE] -->
+    <string name="hello_world_info_text">Press the \"Say Hello\" button to receive a message from the App Engine server.</string>
+
+    <!-- Initial "hello, world" response message [CHAR LIMIT=NONE] -->
+    <string name="hello_world_text"></string>
+
+    <!-- Dialog message text [CHAR LIMIT=NONE] -->
+    <string name="needs_account">To receive notifications from this app, you must first create an account.</string>
+
+    <!-- Notification message [CHAR LIMIT=NONE] -->
+    <string name="registration_error">Failed to register/unregister %1$s.</string>
+
+    <!-- Notification message [CHAR LIMIT=NONE] -->
+    <string name="registration_succeeded">Registered %1$s for C2DM messaging.</string>
+
+    <!-- Button text [CHAR LIMIT=NONE] -->
+    <string name="say_hello">Say Hello</string>
+
+    <!-- List view header text [CHAR LIMIT=NONE] -->
+    <string name="select_account">Select the account you wish to authorize:</string>
+
+    <!-- Dialog button text [CHAR LIMIT=NONE] -->
+    <string name="skip">Skip</string>
+
+    <!-- Notification message [CHAR LIMIT=NONE] -->
+    <string name="unregistration_succeeded">Unegistered %1$s for C2DM messaging.</string>
+    <string name="component_veggie_name">Vegetables</string>
+    <string name="component_wholeveggie_name">Whole Vegetables</string>
+    <string name="component_fruit_name">Fruit</string>
+    <string name="component_wholefruit_name">Whole Fruit</string>
+    <string name="component_grain_name">Grains</string>
+    <string name="component_protein_name">Protein</string>
+    <string name="component_dairy_name">Dairy</string>
+    <string name="component_fats_name">Fats</string>
+    <string name="component_sodium_name">Sodium</string>
+    <string name="component_sugar_name">Sugars</string>
+    <string name="component_wholegrain_name">Whole Grains</string>
+    <string name="no_results">No Results</string>
+    <string name="food_query">Do Food Query</string>
+    <string name="search_pond_label">Seach POND</string>
+    <string name="search_pond_hint">Search for Food</string>
+    <string name="non_decimal_integers">0123456789</string>
+
+</resources>

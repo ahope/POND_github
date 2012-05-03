@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="points_RatingBar" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/pt_rating_bar_full</item>
+        <item name="android:minHeight">34dip</item>
+        <item name="android:maxHeight">34dip</item>
+        <item name="android:isIndicator">true</item>
+    </style>
+    
+
+
+	<style name="pointsInfo_Button" parent="@android:style/Widget.Button">
+		<item name="android:foreground">@android:color/black</item>
+		<item name="android:textColor">@android:color/black</item>
+	</style>
+	
+	<style name="fatStyle">
+		<item name="android:background">@color/FATS</item>
+	</style>
+	
+	<style name="alcoholStyle">
+		<item name="android:background">@color/ALCOHOL</item>
+	</style>
+	
+	<style name="locationSpinnerTextStyle"
+		parent="@android:style/TextAppearance.Large">
+		<item name="android:textColor">#fff</item>
+		<item name="android:textStyle">bold</item>
+		
+	</style>
+	
+	
+</resources>

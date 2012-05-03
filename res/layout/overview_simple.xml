@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical" android:isScrollContainer="true" 
+  android:layout_height="fill_parent" 
+  android:layout_width="fill_parent">
+    <RelativeLayout android:id="@+id/relativeLayout1" android:layout_height="wrap_content" android:layout_width="match_parent" android:paddingLeft="3dp" android:paddingRight="3dp">
+        <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_alignParentTop="true" android:background="@drawable/button_bg_dairy" android:textAppearance="@style/locationSpinnerTextStyle" android:textColor="#FFF" android:text="+" android:id="@+id/add_food_button" android:layout_margin="2dp" android:layout_centerVertical="true" android:textSize="30dp" android:layout_alignParentRight="true"></Button>
+        <Spinner android:layout_width="wrap_content" android:id="@+id/overview_location_Spinner" style="@style/locationSpinnerTextStyle" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_toLeftOf="@+id/add_food_button" android:layout_margin="2dp" android:layout_centerVertical="true" android:background="@drawable/pretty_spinner_bg"></Spinner>
+    </RelativeLayout>
+    	      <ListView android:id="@+id/overview_ListView" 
+        		  android:layout_width="fill_parent" 
+        		  android:layout_height="fill_parent" android:descendantFocusability="blocksDescendants" android:dividerHeight="2sp" android:padding="2sp"></ListView>
+
+        
+</LinearLayout>

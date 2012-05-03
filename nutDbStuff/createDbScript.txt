@@ -1,0 +1,46 @@
+drop table tblFood;
+
+create table tblFood(_id INTEGER PRIMARY KEY, foodClassID INTEGER, manufacturerId INTEGER, refID INTEGER, isCommon INTEGER, cupGramWeight REAL, isDiscontinued INTEGER, foodName TEXT, isGeneric INTEGER, recipe INTEGER, refusePercentage INTEGER);
+.mode tabs
+.import dataTables/tabFields/tblFood.txt tblFood
+
+drop table tblFoodClass;
+create table tblFoodClass(_id INTEGER PRIMARY KEY, foodClassName TEXT, foodClassFullName TEXT, foodClassFullID TEXT, pyramidServingAmountUnitId INTEGER, parentFoodClassID INTEGER); 
+.mode tabs
+.import dataTables/tabFields/tblFoodClass.txt tblFoodClass
+
+drop table tblFoodExchanges;
+create table tblFoodExchanges(foodId INTEGER, exchangeOrder INTEGER, exchangeID INTEGER, exchangeValue INTEGER); 
+.mode tabs
+.import dataTables/tabFields/tblFoodExchanges.txt tblFoodExchanges
+
+drop table tblFoodPyramidCategories;
+create table tblFoodPyramidCategories(foodId INTEGER, pyramidCategory INTEGER, pyramidCategoryId INTEGER, isHighFat INTEGER, isHighSugar INTEGER, pyramidValue REAL); 
+.mode tabs
+.import dataTables/tabFields/tblFoodPyramidCategories.txt tblFoodPyramidCategories
+
+drop table tblFoodServingTypes;
+create table tblFoodServingTypes(foodId INTEGER, servingType INTEGER, servingAmountUnitID INTEGER, servingAmountValue REAL, gramWeightValue REAL, servingAmountNote TEXT);
+.mode tabs
+.import dataTables/tabFields/tblFoodServingTypes.txt tblFoodServingTypes
+
+drop table tblManufacturer;
+create table tblManufacturer(manufacturerID INTEGER PRIMARY KEY, manufacturerName TEXT); 
+.mode tabs
+.import dataTables/tabFields/tblManufacturer.txt tblManufacturer
+
+drop table tblPyramidCategory;
+create table tblPyramidCategory(pyramidCategoryID INTEGER PRIMARY KEY, pyramidCategoryName TEXT); 
+.mode tabs
+.import dataTables/tabFields/tblPyramidCategory.txt tblPyramidCategory
+
+drop table tblFoodNutrients;
+create table tblFoodNutrients(foodID INTEGER, nutrientID INTEGER, nutrientValue REAL); 
+.mode tabs
+.import dataTables/tabFields/foodNutQuery.txt tblFoodNutrients
+
+
+drop table android_metadata;
+create table android_metadata(locale TEXT DEFAULT 'en_US');
+insert into android_metadata values ('en_US');
+

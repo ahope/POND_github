@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:isScrollContainer="true" android:padding="5sp" android:id="@+id/layout_root_nut_info_card">
+    <EditText android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/point_entry_edit_foodName_EditText"></EditText>
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/point_entry_edit_tokenHolder" android:paddingTop="5dp" android:paddingBottom="5dp">
+    </LinearLayout>
+    <Button android:id="@+id/button1" android:layout_height="wrap_content" android:text="Edit Component" android:layout_gravity="center" android:layout_width="fill_parent"></Button>
+    <LinearLayout android:orientation="vertical" android:scrollbars="vertical" android:layout_width="fill_parent" android:id="@+id/linearLayout1" android:layout_height="wrap_content">
+        <RelativeLayout android:id="@+id/relativeLayout1" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:id="@+id/food_entry_edit_time_TextView" android:layout_width="wrap_content" android:text="TextView" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_height="wrap_content"></TextView>
+            <Button android:layout_alignParentRight="true" android:layout_width="wrap_content" android:text="Change" android:layout_height="wrap_content" android:id="@+id/point_entry_edit_time_Button" android:layout_marginTop="3dp" android:layout_marginBottom="3dp"></Button>
+        </RelativeLayout>
+        <RelativeLayout android:id="@+id/relativeLayout2" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:id="@+id/food_entry_edit_date_TextView" android:layout_width="wrap_content" android:text="TextView" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_height="wrap_content"></TextView>
+            <Button android:layout_alignParentRight="true" android:layout_width="wrap_content" android:text="Change" android:layout_height="wrap_content" android:id="@+id/point_entry_edit_date_Button" android:layout_marginBottom="3dp"></Button>
+        </RelativeLayout>
+        <Spinner android:id="@+id/food_entry_edit_locationSpinner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:background="@drawable/pretty_spinner_location"></Spinner>
+    </LinearLayout>
+    <Button android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="Save" android:id="@+id/save_button" android:layout_marginTop="8dp" android:saveEnabled="true"></Button>
+    
+</LinearLayout>

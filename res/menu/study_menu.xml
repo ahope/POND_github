@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/in_lab_study_menu" android:title="Study">
+        <menu>
+            <item android:title="Clear Goals" android:id="@+id/reset_screen_menuItem"></item>
+            <item android:title="Start Study" android:id="@+id/start_study_menuItem"></item>
+            <item android:title="Re-start Task" android:id="@+id/restart_task_menuItem"></item>
+            <item android:title="Restart Condition" android:id="@+id/restart_condition_menuItem"></item>
+        </menu>
+    </item>
+</menu>

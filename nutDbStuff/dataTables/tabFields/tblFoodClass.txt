@@ -1,0 +1,369 @@
+3	Accompaniment	Accompaniment	|3|	1	
+5	Condiment	Accompaniment, Condiment	|3|5|	5	3
+6	Salad Dressing	Accompaniment, Salad Dressing	|3|6|	5	3
+7	Gravy	Accompaniment, Gravy	|3|7|	5	3
+8	Sauce	Accompaniment, Sauce	|3|8|	5	3
+10	Syrup	Accompaniment, Syrup	|3|10|	5	3
+11	Topping	Accompaniment, Topping	|3|11|	5	3
+12	Dip	Accompaniment, Dip	|3|12|	5	3
+13	Marinade	Accompaniment, Marinade	|3|13|	1	3
+47	Baby Food	Baby Food	|47|	1	
+49	Cereal	Baby Food, Cereal	|47|49|	11	47
+50	Combination Meal	Baby Food, Combination Meal	|47|50|	1	47
+51	Fruit	Baby Food, Fruit	|47|51|	11	47
+52	Juice	Baby Food, Juice	|47|52|	11	47
+53	Nectar	Baby Food, Nectar	|47|53|	11	47
+54	Protein Food	Baby Food, Protein Food	|47|54|	11	47
+55	Vegetable	Baby Food, Vegetable	|47|55|	11	47
+56	Baked Product	Baby Food, Baked Product	|47|56|	2	47
+57	Sweets	Baby Food, Sweets	|47|57|	11	47
+58	Milk Product	Baby Food, Milk Product	|47|58|	11	47
+59	Baked Product	Baked Product	|59|	2	
+61	Biscuits	Baked Product, Biscuits	|59|61|	11	59
+62	Crackers	Baked Product, Crackers	|59|62|	11	59
+63	Muffins	Baked Product, Muffins	|59|63|	11	59
+64	Pancakes	Baked Product, Pancakes	|59|64|	11	59
+66	Waffles	Baked Product, Waffles	|59|66|	11	59
+67	Bagels	Baked Product, Bagels	|59|67|	11	59
+68	Brownies	Baked Product, Brownies	|59|68|	11	59
+69	Crisps	Baked Product, Crisps	|59|69|	11	59
+70	Cobblers	Baked Product, Cobblers	|59|70|	11	59
+71	Popovers	Baked Product, Popovers	|59|71|	2	59
+73	Pastries	Baked Product, Pastries	|59|73|	11	59
+74	Baking Mixes	Baked Product, Baking Mixes	|59|74|	1	59
+75	Crusts	Baked Product, Crusts	|59|75|	11	59
+76	Rolls	Baked Product, Rolls	|59|76|	11	59
+77	Cheesecakes	Baked Product, Cheesecakes	|59|77|	11	59
+78	Coffee Cakes	Baked Product, Coffee Cakes	|59|78|	11	59
+79	Cookies	Baked Product, Cookies	|59|79|	11	59
+80	Breads	Baked Product, Breads	|59|80|	11	59
+81	Cakes	Baked Product, Cakes	|59|81|	11	59
+82	Beverage	Beverage	|82|	7	
+84	Fruit Drink	Beverage, Fruit Drink	|82|84|	5	82
+85	Vegetable Drink	Beverage, Vegetable Drink	|82|85|	8	82
+86	Fruit Juice	Beverage, Fruit Juice	|82|86|	8	82
+87	Vegetable Juice	Beverage, Vegetable Juice	|82|87|	8	82
+89	Fruit Nectar	Beverage, Fruit Nectar	|82|89|	5	82
+90	Milkshakes	Beverage, Milkshakes	|82|90|	7	82
+91	Yogurt Drink	Beverage, Yogurt Drink	|82|91|	7	82
+92	Alcoholic	Beverage, Alcoholic	|82|92|	7	82
+93	Milk Drink	Beverage, Milk Drink	|82|93|	7	82
+94	Meal Replacement	Beverage, Meal Replacement	|82|94|	7	82
+97	Sports Drink	Beverage, Sports Drink	|82|97|	5	82
+100	Carbonated	Beverage, Carbonated	|82|100|	7	82
+101	Floats	Beverage, Floats	|82|101|	7	82
+105	Cocktail	Beverage, Alcoholic, Cocktail	|82|92|105|	7	92
+106	Wine	Beverage, Alcoholic, Wine	|82|92|106|	7	92
+107	Liqueur	Beverage, Alcoholic, Liqueur	|82|92|107|	7	92
+108	Spirit	Beverage, Alcoholic, Spirit	|82|92|108|	7	92
+109	Combination Food	Combination Food	|109|	1	
+111	Dish	Combination Food, Dish	|109|111|	1	109
+112	Sandwich	Combination Food, Sandwich	|109|112|	1	109
+114	Pies	Combination Food, Pies	|109|114|	1	109
+115	Pizzas	Combination Food, Pizzas	|109|115|	1	109
+116	Filled Pancake	Combination Food, Filled Pancake	|109|116|	1	109
+118	Filled Dough	Combination Food, Filled Dough	|109|118|	1	109
+119	Food Pack	Combination Food, Food Pack	|109|119|	1	109
+120	Pizza Kits	Combination Food, Pizza Kits	|109|120|	1	109
+121	Salad	Combination Food, Salad	|109|121|	1	109
+123	Grain	Combination Food, Dish, Grain	|109|111|123|	1	111
+124	Bean	Combination Food, Dish, Bean	|109|111|124|	1	111
+125	Egg	Combination Food, Dish, Egg	|109|111|125|	1	111
+126	Tortilla	Combination Food, Dish, Tortilla	|109|111|126|	1	111
+127	Pasta	Combination Food, Dish, Pasta	|109|111|127|	1	111
+128	Rice	Combination Food, Dish, Rice	|109|111|128|	1	111
+130	Vegetable	Combination Food, Dish, Vegetable	|109|111|130|	1	111
+131	Poultry	Combination Food, Dish, Poultry	|109|111|131|	1	111
+132	Meat	Combination Food, Dish, Meat	|109|111|132|	1	111
+133	Fish	Combination Food, Dish, Fish	|109|111|133|	1	111
+134	Fruit	Combination Food, Dish, Fruit	|109|111|134|	1	111
+136	Breakfast	Combination Food, Dish, Breakfast	|109|111|136|	1	111
+139	Filled Noodle	Combination Food, Dish, Pasta, Filled Noodle	|109|111|127|139|	1	127
+140	Dairy	Dairy	|140|	1	
+142	Cheese	Dairy, Cheese	|140|142|	11	140
+143	Imitation Dairy Products	Dairy, Imitation Dairy Products	|140|143|	8	140
+146	Yogurt	Dairy, Yogurt	|140|146|	11	140
+147	Cream Product	Dairy, Cream Product	|140|147|	5	140
+149	Fish	Fish	|149|	11	
+151	Shellfish	Fish, Shellfish	|149|151|	11	149
+152	Finfish	Fish, Finfish	|149|152|	11	149
+154	Egg	Egg	|154|	11	
+155	Grain	Grain	|155|	8	
+156	Meat	Meat	|156|	11	
+157	Ingredient	Ingredient	|157|	1	
+158	Non-meat Protein	Non-meat Protein	|158|	11	
+159	Poultry	Poultry	|159|	11	
+160	Prepared Meat	Prepared Meat	|160|	11	
+161	Soup	Soup	|161|	7	
+162	Supplement	Supplement	|162|	2	
+163	Sweets	Sweets	|163|	1	
+164	Vegetable	Vegetable	|164|	11	
+167	Pure Grains	Grain, Pure Grains	|155|167|	8	155
+168	Flour	Grain, Flour	|155|168|	1	155
+169	Pasta	Grain, Pasta	|155|169|	11	155
+170	Cakes	Grain, Cakes	|155|170|	11	155
+172	Tortillas	Grain, Tortillas	|155|172|	11	155
+173	Shells	Grain, Shells	|155|173|	2	155
+174	Puffs-Curls	Grain, Puffs-Curls	|155|174|	11	155
+175	Chips	Grain, Chips	|155|175|	11	155
+176	Fried Grains	Grain, Fried Grains	|155|176|	11	155
+177	Hot Cereal	Grain, Hot Cereal	|155|177|	8	155
+178	Cold Cereal	Grain, Cold Cereal	|155|178|	11	155
+182	Beef	Meat, Beef	|156|182|	11	156
+183	Lamb	Meat, Lamb	|156|183|	11	156
+184	Veal	Meat, Veal	|156|184|	11	156
+185	Pork	Meat, Pork	|156|185|	11	156
+186	Other	Meat, Other	|156|186|	11	156
+216	Acidulant	Ingredient, Acidulant	|157|216|	1	157
+217	Antioxidant	Ingredient, Antioxidant	|157|217|	1	157
+218	Sequestrant	Ingredient, Sequestrant	|157|218|	1	157
+219	Color	Ingredient, Color	|157|219|	1	157
+220	Emulsifier	Ingredient, Emulsifier	|157|220|	1	157
+221	Flavor	Ingredient, Flavor	|157|221|	1	157
+222	Gum	Ingredient, Gum	|157|222|	1	157
+223	Preservative	Ingredient, Preservative	|157|223|	1	157
+224	Spice	Ingredient, Spice	|157|224|	1	157
+225	Starch	Ingredient, Starch	|157|225|	1	157
+226	Sweetener	Ingredient, Sweetener	|157|226|	5	157
+227	Nutrient	Ingredient, Nutrient	|157|227|	1	157
+228	Leavening Agent	Ingredient, Leavening Agent	|157|228|	1	157
+229	Fat	Ingredient, Fat	|157|229|	5	157
+231	Animal Fat	Ingredient, Fat, Animal Fat	|157|229|231|	5	229
+232	Flavor Enhancer	Ingredient, Flavor Enhancer	|157|232|	1	157
+233	Gelatin	Ingredient, Gelatin	|157|233|	1	157
+234	Dairy	Ingredient, Dairy	|157|234|	1	157
+235	Soy Protein	Ingredient, Soy Protein	|157|235|	1	157
+236	Base	Ingredient, Base	|157|236|	1	157
+237	Mix	Ingredient, Mix	|157|237|	1	157
+238	Crumbs	Ingredient, Crumbs	|157|238|	1	157
+239	Food Thickener	Ingredient, Food Thickener	|157|239|	1	157
+240	Additive	Ingredient, Additive	|157|240|	1	157
+241	Stabilizer	Ingredient, Stabilizer	|157|241|	1	157
+243	Tenderizer	Ingredient, Tenderizer	|157|243|	1	157
+244	Paste	Ingredient, Paste	|157|244|	1	157
+245	Cooking Wine	Ingredient, Cooking Wine	|157|245|	1	157
+246	Dough Products	Ingredient, Dough Products	|157|246|	1	157
+248	Softener	Ingredient, Softener	|157|248|	1	157
+251	Legume	Non-meat Protein, Legume	|158|251|	8	158
+252	Nuts	Non-meat Protein, Nuts	|158|252|	8	158
+253	Seeds	Non-meat Protein, Seeds	|158|253|	8	158
+254	Soy Products	Non-meat Protein, Soy Products	|158|254|	8	158
+255	Butters	Non-meat Protein, Butters	|158|255|	6	158
+256	Trail Mix	Non-meat Protein, Trail Mix	|158|256|	8	158
+257	Vegetable Protein Product	Non-meat Protein, Vegetable Protein Product	|158|257|	11	158
+259	Beans	Non-meat Protein, Legume, Beans	|158|251|259|	8	251
+260	Peas	Non-meat Protein, Legume, Peas	|158|251|260|	8	251
+267	Chicken	Poultry, Chicken	|159|267|	11	159
+268	Other	Poultry, Other	|159|268|	11	159
+270	Duck	Poultry, Duck	|159|270|	11	159
+280	Turkey	Poultry, Turkey	|159|280|	11	159
+283	Frankfurter	Prepared Meat, Frankfurter	|160|283|	11	160
+284	Jerky	Prepared Meat, Jerky	|160|284|	11	160
+285	Luncheon Meat	Prepared Meat, Luncheon Meat	|160|285|	11	160
+287	Spread	Prepared Meat, Spread	|160|287|	11	160
+288	Loaf	Prepared Meat, Loaf	|160|288|	11	160
+289	Sausage	Prepared Meat, Sausage	|160|289|	11	160
+290	Fruit	Fruit	|290|	8	
+296	Candy	Sweets, Candy	|163|296|	5	163
+299	Baking Chips	Sweets, Baking Chips	|163|299|	5	163
+300	Custard	Sweets, Custard	|163|300|	8	163
+301	Gelatin	Sweets, Gelatin	|163|301|	5	163
+302	Pudding	Sweets, Pudding	|163|302|	8	163
+303	Mousse	Sweets, Mousse	|163|303|	8	163
+304	Frosting	Sweets, Frosting	|163|304|	5	163
+305	Frozen Desserts	Sweets, Frozen Desserts	|163|305|	1	163
+306	Bar (Non-Candy)	Sweets, Bar (Non-Candy)	|163|306|	2	163
+307	Doughnut	Sweets, Doughnut	|163|307|	11	163
+308	Fruit Snack	Sweets, Fruit Snack	|163|308|	5	163
+309	Oil	Ingredient, Fat, Oil	|157|229|309|	5	229
+311	Formula	Supplement, Formula	|162|311|	7	162
+312	Vitamin and Mineral	Supplement, Vitamin and Mineral	|162|312|	1	162
+313	Fitness	Supplement, Fitness	|162|313|	11	162
+430	Vegetable Based	Accompaniment, Condiment, Vegetable Based	|3|5|430|	8	5
+431	Fat Based 	Accompaniment, Condiment, Fat Based 	|3|5|431|	5	5
+432	Spice Based 	Accompaniment, Condiment, Spice Based 	|3|5|432|	5	5
+434	Dry Mix	Accompaniment, Salad Dressing, Dry Mix	|3|6|434|	1	6
+435	Modified	Accompaniment, Salad Dressing, Modified	|3|6|435|	5	6
+437	Dry Mix	Accompaniment, Gravy, Dry Mix	|3|7|437|	1	7
+440	Vegetable Based	Accompaniment, Sauce, Vegetable Based	|3|8|440|	8	8
+441	Dairy Based 	Accompaniment, Sauce, Dairy Based 	|3|8|441|	8	8
+442	Sweetened	Accompaniment, Sauce, Sweetened	|3|8|442|	5	8
+444	Modified	Accompaniment, Sauce, Vegetable Based, Modified	|3|8|440|444|	8	440
+446	Modified	Accompaniment, Sauce, Dairy Based , Modified	|3|8|441|446|	8	441
+448	Dry Mix	Accompaniment, Sauce, Sweetened, Dry Mix	|3|8|442|448|	1	442
+452	Soy Based	Accompaniment, Sauce, Soy Based	|3|8|452|	5	8
+454	Fruit Based 	Accompaniment, Topping, Fruit Based 	|3|11|454|	5	11
+456	Dairy Based 	Accompaniment, Dip, Dairy Based 	|3|12|456|	5	12
+458	Vegetable Based	Accompaniment, Dip, Vegetable Based	|3|12|458|	8	12
+459	Protein Based 	Accompaniment, Dip, Protein Based 	|3|12|459|	8	12
+461	Starchy	Baby Food, Vegetable, Starchy	|47|55|461|	11	55
+462	Dark Green	Baby Food, Vegetable, Dark Green	|47|55|462|	11	55
+463	Deep Yellow	Baby Food, Vegetable, Deep Yellow	|47|55|463|	11	55
+466	Breads	Baby Food, Baked Product, Breads	|47|56|466|	2	56
+467	Cookies	Baby Food, Baked Product, Cookies	|47|56|467|	2	56
+469	Fruit Based 	Baby Food, Sweets, Fruit Based 	|47|57|469|	8	57
+470	Milk Based	Baby Food, Sweets, Milk Based	|47|57|470|	11	57
+472	Yogurt	Baby Food, Milk Product, Yogurt	|47|58|472|	11	58
+476	Dry Mix	Baked Product, Biscuits, Dry Mix	|59|61|476|	1	61
+479	Dry Mix	Baked Product, Muffins, Dry Mix	|59|63|479|	1	63
+481	Dry Mix	Baked Product, Pancakes, Dry Mix	|59|64|481|	1	64
+483	Dry Mix	Baked Product, Waffles, Dry Mix	|59|66|483|	1	66
+485	Dry Mix	Baked Product, Brownies, Dry Mix	|59|68|485|	1	68
+487	Dry Mix	Baked Product, Popovers, Dry Mix	|59|71|487|	1	71
+491	Fruit Filled	Baked Product, Pastries, Fruit Filled	|59|73|491|	11	73
+492	Cream Filled	Baked Product, Pastries, Cream Filled	|59|73|492|	11	73
+494	Dessert 	Baked Product, Crusts, Dessert 	|59|75|494|	11	75
+495	Entree	Baked Product, Crusts, Entree	|59|75|495|	11	75
+500	Dry Mix	Baked Product, Rolls, Dry Mix	|59|76|500|	11	76
+502	Dry Mix	Baked Product, Cheesecakes, Dry Mix	|59|77|502|	11	77
+504	Dry Mix	Baked Product, Coffee Cakes, Dry Mix	|59|78|504|	11	78
+506	Dry Mix	Baked Product, Cookies, Dry Mix	|59|79|506|	11	79
+507	Dough	Baked Product, Cookies, Dough	|59|79|507|	11	79
+509	Dry Mix	Baked Product, Breads, Dry Mix	|59|80|509|	11	80
+511	Dry Mix	Baked Product, Cakes, Dry Mix	|59|81|511|	11	81
+513	Dry Mix	Beverage, Fruit Drink, Dry Mix	|82|84|513|	11	84
+514	Concentrate	Beverage, Fruit Drink, Concentrate	|82|84|514|	11	84
+520	Concentrate	Beverage, Fruit Juice, Concentrate	|82|86|520|	11	86
+527	Dry Mix	Beverage, Milkshakes, Dry Mix	|82|90|527|	11	90
+529	Dry Mix	Beverage, Milk Drink, Dry Mix	|82|93|529|	11	93
+531	Dry Mix	Beverage, Meal Replacement, Dry Mix	|82|94|531|	11	94
+533	Dry Mix	Beverage, Sports Drink, Dry Mix	|82|97|533|	11	97
+535	Sweetened	Beverage, Carbonated, Sweetened	|82|100|535|	5	100
+537	Dry Mix	Combination Food, Dish, Grain, Dry Mix	|109|111|123|537|		123
+539	Dry Mix	Combination Food, Dish, Bean, Dry Mix	|109|111|124|539|	11	124
+541	Dry Mix	Combination Food, Dish, Rice, Dry Mix	|109|111|128|541|	11	128
+545	Starchy Vegetable	Combination Food, Dish, Vegetable, Starchy Vegetable	|109|111|130|545|	1	130
+547	Dry Mix	Combination Food, Dish, Vegetable, Starchy Vegetable, Dry Mix	|109|111|130|545|547|	11	545
+550	Breaded	Combination Food, Dish, Poultry, Breaded	|109|111|131|550|	1	131
+552	Breaded	Combination Food, Dish, Meat, Breaded	|109|111|132|552|	1	132
+554	Breakfast	Combination Food, Sandwich, Breakfast	|109|112|554|	1	112
+556	Vegetable	Combination Food, Salad, Vegetable	|109|121|556|		121
+557	Legume	Combination Food, Salad, Legume	|109|121|557|		121
+558	Grain	Combination Food, Salad, Grain	|109|121|558|		121
+560	Dry Mix	Combination Food, Salad, Grain, Dry Mix	|109|121|558|560|		558
+561	Pasta	Combination Food, Salad, Pasta	|109|121|561|		121
+562	Meat	Combination Food, Salad, Meat	|109|121|562|		121
+563	Fruit	Combination Food, Salad, Fruit	|109|121|563|		121
+566	Dry Mix	Combination Food, Salad, Pasta, Dry Mix	|109|121|561|566|		561
+568	Natural	Dairy, Cheese, Natural	|140|142|568|	11	142
+569	Processed	Dairy, Cheese, Processed	|140|142|569|	11	142
+570	Milk	Dairy, Milk	|140|570|	7	140
+572	Powder	Dairy, Milk, Powder	|140|570|572|	1	570
+574	Flavored Yogurt	Dairy, Yogurt, Flavored Yogurt	|140|146|574|	11	146
+576	Cheese	Dairy, Imitation Dairy Products, Cheese	|140|143|576|	11	143
+577	Beverages	Dairy, Imitation Dairy Products, Beverages	|140|143|577|	7	143
+578	Cream	Dairy, Imitation Dairy Products, Cream	|140|143|578|	5	143
+579	Yogurt	Dairy, Imitation Dairy Products, Yogurt	|140|143|579|	11	143
+581	Powder	Dairy, Imitation Dairy Products, Beverages, Powder	|140|143|577|581|	1	577
+585	Dried	Fruit, Dried	|290|585|	11	290
+587	Fruit Added	Grain, Hot Cereal, Fruit Added	|155|177|587|	8	177
+589	Fruit Added	Grain, Cold Cereal, Fruit Added	|155|178|589|	11	178
+590	Grain Meal	Grain, Grain Meal	|155|590|	1	155
+591	Dry	Grain, Pure Grains, Dry	|155|167|591|	1	167
+593	Dry	Grain, Pasta, Dry	|155|169|593|	1	169
+594	Pretzels	Grain, Pretzels	|155|594|	11	155
+595	Popcorn	Grain, Popcorn	|155|595|	11	155
+597	Flavored	Grain, Popcorn, Flavored	|155|595|597|	11	595
+601	Margarines	Ingredient, Fat, Margarines	|157|229|601|	5	229
+603	Modified	Ingredient, Fat, Margarines, Modified	|157|229|601|603|	5	601
+606	Peanuts	Non-meat Protein, Legume, Peanuts	|158|251|606|	8	251
+630	Modified	Sweets, Gelatin, Modified	|163|301|630|	8	301
+640	Ice Cream	Sweets, Frozen Desserts, Ice Cream	|163|305|640|	8	305
+642	Starchy	Vegetable, Starchy	|164|642|	8	164
+643	Dark Green	Vegetable, Dark Green	|164|643|	8	164
+644	Deep Yellow	Vegetable, Deep Yellow	|164|644|	8	164
+645	Green Peas	Vegetable, Green Peas	|164|645|	8	164
+647	Cooked	Vegetable, Dark Green, Cooked	|164|643|647|	8	643
+650	Cooked	Vegetable, Deep Yellow, Cooked	|164|644|650|	8	644
+651	International Food	International Food	|651|	1	
+655	Accompaniment	International Food, Accompaniment	|651|655|	5	651
+660	Baby Food	International Food, Baby Food	|651|660|	11	651
+665	Baked Product	International Food, Baked Product	|651|665|	2	651
+667	Bread	International Food, Baked Product, Bread	|651|665|667|	11	665
+668	Biscuit/Cookie	International Food, Baked Product, Biscuit	|Cookie|	11	665
+671	Beverage	International Food, Beverage	|651|671|	7	651
+680	Combination Food	International Food, Combination Food	|651|680|	1	651
+682	Dish	International Food, Combination Food, Dish	|651|680|682|	1	680
+683	Salad	International Food, Combination Food, Salad	|651|680|683|	1	680
+684	Sandwich	International Food, Combination Food, Sandwich	|651|680|684|	1	680
+685	Pizza	International Food, Combination Food, Pizza	|651|680|685|	1	680
+691	Dairy Product	International Food, Dairy Product	|651|691|	1	651
+693	Cheese	International Food, Dairy Product, Cheese	|651|691|693|	11	691
+694	Cream	International Food, Dairy Product, Cream	|651|691|694|	5	691
+695	Milk	International Food, Dairy Product, Milk	|651|691|695|	7	691
+696	Yogurt	International Food, Dairy Product, Yogurt	|651|691|696|	11	691
+697	Egg	International Food, Egg	|651|697|	11	651
+698	Fish	International Food, Fish	|651|698|	11	651
+703	Fruit	International Food, Fruit	|651|703|	11	651
+704	Grain	International Food, Grain	|651|704|	11	651
+706	Noodle	International Food, Grain, Noodle	|651|704|706|	11	704
+707	Flour	International Food, Grain, Flour	|651|704|707|	1	704
+708	Pure Grain	International Food, Grain, Pure Grain	|651|704|708|	11	704
+709	Snack	International Food, Grain, Snack	|651|704|709|	11	704
+713	Meat	International Food, Meat	|651|713|	11	651
+721	Ingredient	International Food, Ingredient	|651|721|	1	651
+723	Sweetener	International Food, Ingredient, Sweetener	|651|721|723|	5	721
+724	Fat	International Food, Ingredient, Fat	|651|721|724|	5	721
+725	Flavor	International Food, Ingredient, Flavor	|651|721|725|	1	721
+726	Leavening Agent	International Food, Ingredient, Leavening Agent	|651|721|726|	1	721
+727	Spice	International Food, Ingredient, Spice	|651|721|727|	1	721
+730	Non-meat Protein	International Food, Non-meat Protein	|651|730|	11	651
+732	Legume	International Food, Non-meat Protein, Legume	|651|730|732|	8	730
+733	Nuts	International Food, Non-meat Protein, Nuts	|651|730|733|	11	730
+734	Seeds	International Food, Non-meat Protein, Seeds	|651|730|734|	11	730
+735	Soy	International Food, Non-meat Protein, Soy	|651|730|735|	11	730
+740	Poultry	International Food, Poultry	|651|740|	11	651
+744	Soup	International Food, Soup	|651|744|	7	651
+745	Sweet	International Food, Sweet	|651|745|	5	651
+747	Candy	International Food, Sweet, Candy	|651|745|747|	5	745
+748	Fruit Spreads	International Food, Sweet, Fruit Spreads	|651|745|748|	5	745
+751	Dish	International Food, Sweet, Dish	|651|745|751|	11	745
+755	Vegetable	International Food, Vegetable	|651|755|	11	651
+757	Starchy	International Food, Vegetable, Starchy	|651|755|757|	11	755
+762	Breaded	Combination Food, Dish, Fish, Breaded	|109|111|133|762|	1	133
+763	Green Peas	Baby Food, Vegetable, Green Peas	|47|55|763|	8	55
+764	Shortening	Ingredient, Fat, Shortening	|157|229|764|	1	229
+765	Dry Mix	Beverage, Alcoholic, Cocktail, Dry Mix	|82|92|105|765|	1	105
+766	Unspecified	Unspecified	|766|	1	
+771	Liquid Mix	Beverage, Alcoholic, Cocktail, Liquid Mix	|82|92|105|771|	1	105
+773	Fruit Based 	Accompaniment, Condiment, Fruit Based 	|3|5|773|	5	5
+774	Coffees and Teas	Beverage, Coffees and Teas	|82|774|	5	82
+775	Dry Mix	Beverage, Coffees and Teas, Dry Mix	|82|774|775|	1	774
+776	Beer	Beverage, Alcoholic, Beer	|82|92|776|	7	92
+779	Sherbet	Sweets, Frozen Desserts, Sherbet	|163|305|779|	5	305
+780	Yogurt	Sweets, Frozen Desserts, Yogurt	|163|305|780|	8	305
+781	Bar	Sweets, Frozen Desserts, Bar	|163|305|781|	8	305
+782	Dish	Sweets, Frozen Desserts, Dish	|163|305|782|	8	305
+783	Infant Formula	Baby Food, Infant Formula	|47|783|	11	47
+784	Flour (Non-Grain)	Ingredient, Flour (Non-Grain)	|157|784|	1	157
+785	Pies	Baked Product, Pies	|59|785|	11	59
+786	Quick Breads	Baked Product, Quick Breads	|59|786|	11	59
+787	Dry Mix	Baked Product, Quick Breads, Dry Mix	|59|786|787|	11	786
+788	Fruit Spreads	Sweets, Fruit Spreads	|163|788|	5	163
+789	Raw	Fish, Shellfish, Raw	|149|151|789|	11	151
+790	Raw	Fish, Finfish, Raw	|149|152|790|	11	152
+791	Raw	Poultry, Chicken, Raw	|159|267|791|	11	267
+792	Raw	Poultry, Other, Raw	|159|268|792|	11	268
+793	Raw	Poultry, Duck, Raw	|159|270|793|	11	270
+794	Raw	Poultry, Turkey, Raw	|159|280|794|	11	280
+795	Raw	Meat, Beef, Raw	|156|182|795|	11	182
+796	Raw	Meat, Lamb, Raw	|156|183|796|	11	183
+797	Raw	Meat, Veal, Raw	|156|184|797|	11	184
+798	Raw	Meat, Pork, Raw	|156|185|798|	11	185
+799	Raw	Meat, Other, Raw	|156|186|799|	11	186
+800	Bar (Non Candy)	Supplement, Fitness, Bar (Non Candy)	|162|313|800|	2	313
+801	Dairy Based 	Soup, Dairy Based 	|161|801|	7	161
+802	Vegetable Based	Soup, Vegetable Based	|161|802|	7	161
+803	Meat or Legume Based	Soup, Meat or Legume Based	|161|803|	7	161
+804	Plant Oil Based	Accompaniment, Salad Dressing, Plant Oil Based	|3|6|804|	5	6
+807	Animal Based	Ingredient, Fat, Oil, Animal Based	|157|229|309|807|	5	309
+808	Plant Based	Ingredient, Fat, Oil, Plant Based	|157|229|309|808|	5	309
+809	Plant Based	Accompaniment, Condiment, Fat Based , Plant Based	|3|5|431|809|	5	431
+811	Trans Fat Free	Ingredient, Fat, Margarines, Trans Fat Free	|157|229|601|811|	5	601
+812	Trans Fat Free	Ingredient, Fat, Margarines, Modified, Trans Fat Free	|157|229|601|603|812|	5	603
+814	Sugar Added	Fruit, Sugar Added	|290|814|	8	290
+815	Sugar Added	Fruit, Dried, Sugar Added	|290|585|815|	11	585
+816	Sugar Added	International Food, Fruit, Sugar Added	|651|703|816|	11	703
+817	Hydrogenated and High Saturated Fat	Ingredient, Fat, Oil, Plant Based, Hydrogenated and High Saturated Fat	|157|229|309|808|817|	5	808
+818	High Fat	Fruit, High Fat	|290|818|	8	290
+819	High Fat	International Food, Fruit, High Fat	|651|703|819|	11	703
